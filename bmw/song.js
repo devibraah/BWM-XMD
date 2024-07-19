@@ -15,7 +15,7 @@ zokou({
   const { ms, repondre, arg } = commandeOptions;
      
   if (!arg[0]) {
-    repondre("wrong!!! Ie. _Play hozambe by Beltah ft shifura._");
+    repondre("wrong!!! Ie. _Play zeus vs rick ross._");
     return;
   }
 
