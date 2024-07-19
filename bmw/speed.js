@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "botrepo", reaction: "🌟", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "botrepo", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
 const githubRepo = 'https://api.github.com/repos/devibraah/BWM-XMD';
@@ -22,20 +22,18 @@ const img = 'https://telegra.ph/file/17c83719a1b40e02971e4.jpg';
 const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
             const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-const gitdata = `👋Hello, This is Bmw-Md. \nA Multidevice Whatsapp User Bot.
+const gitdata = `𝐁𝐌𝐖 𝐌𝐃 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎 \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒
 
-Fork and give a star🌟 to our Respiratory. 
+𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄𝐍 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
 
-
-✨STARS: ${repoInfo.stars} 
-🍴FORKS: ${repoInfo.forks} 
-📅RELEASE: ${releaseDate}
-🗒️Repo: ${data.html_url}
-🕐UPDATE ON: ${repoInfo.lastUpdate}
+📂 Repository Name: ${repoInfo.name}
+📝 Description: ${repoInfo.description}
+👤 Owner: ${repoInfo.owner.login}
+⭐ Stars: ${repoInfo.stars}
+🍴 Forks: ${repoInfo.forks}
+🌐 URL: ${repoInfo.html_url}
 📲YouTube : _https://www.youtube.com/@ibrahimaotech_
-👨‍💻OWNER: *Ibrahim Adams*
-__________________________________
-      Made on Earth by Ibrahim Adams`;
+`;
 
 
 await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
