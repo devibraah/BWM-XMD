@@ -1,3 +1,4 @@
+/**
 const { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { getBuffer } = require("../framework/dl/Function");
@@ -59,7 +60,7 @@ await zk.sendMessage(dest, { video: { url: 'https://telegra.ph/file/4bbcfdf0a62d
 }
 );*/
 
-zokou({ nomCom: 'uptime',
+/**zokou({ nomCom: 'uptime',
     desc: 'To check runtime',    
     Categorie: 'General',
     reaction: '⏲️', 
@@ -105,3 +106,4 @@ await zk.sendMessage(dest, { image: res }, { caption: caption }, { quoted: ms })
 
 }
 );
+**/
