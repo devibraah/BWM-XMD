@@ -33,7 +33,7 @@ async (dest, zk, commandeOptions) => {
 
 
 
-await repondre(`*_Pong▱▱▱▰▰▰▰▰_*_${flashspeed} MS_* `);
+await repondre(`*_Pong▱▱▱▰▰▰▰▰_*_${bmwspeed} MS_* `);
 
 }
 );
@@ -70,7 +70,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Bmw is running on a speed of: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_Bmw md uptime_: ${runtime(process.uptime())}_*`) 
 
    
 
