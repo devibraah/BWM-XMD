@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "botrepo", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "repo", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
 const githubRepo = 'https://api.github.com/repos/devibraah/BWM-XMD';
@@ -24,7 +24,7 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
 
 const gitdata = `𝐁𝐌𝐖 𝐌𝐃 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒.
 
-𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊 🍴
+𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
 
 📂 Repository Name: *BMW-MD*
 📝 Last Update: ${repoInfo.lastUpdate}
@@ -46,7 +46,7 @@ console.log("Could not fetch data")
 
 });
 
-zokou({ nomCom: "botrep", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "git", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
 const githubRepo = 'https://api.github.com/repos/devibraah/BWM-XMD';
@@ -69,7 +69,7 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
 
 const gitdata = `𝐁𝐌𝐖 𝐌𝐃 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒.
 
-𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊 🍴
+𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
 
 📂 Repository Name: *BMW-MD*
 📝 Last Update: ${repoInfo.lastUpdate}
@@ -90,7 +90,7 @@ console.log("Could not fetch data")
 
 });
 
-zokou({ nomCom: "botrepo1", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "sc", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
 const githubRepo = 'https://api.github.com/repos/devibraah/BWM-XMD';
@@ -113,7 +113,7 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
 
 const gitdata = `𝐁𝐌𝐖 𝐌𝐃 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒.
 
-𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊 🍴
+𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
 
 📂 Repository Name: *BMW-MD*
 📝 Last Update: ${repoInfo.lastUpdate}
@@ -135,7 +135,7 @@ console.log("Could not fetch data")
 
 });
 
-zokou({ nomCom: "botrepo2", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "script", reaction: "📂", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
 const githubRepo = 'https://api.github.com/repos/devibraah/BWM-XMD';
@@ -158,7 +158,7 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
 
 const gitdata = `𝐁𝐌𝐖 𝐌𝐃 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒.
 
-𝐒𝐓𝐀𝐑 ⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊 🍴
+𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
 
 📂 Repository Name: *BMW-MD*
 📝 Last Update: ${repoInfo.lastUpdate}
