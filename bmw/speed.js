@@ -24,7 +24,7 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
 
 const gitdata = `𝐁𝐌𝐖 𝐌𝐃 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎 \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒
 
-𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄𝐍 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
+𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴
 
 📂 Repository Name: ${repoInfo.name}
 📝 Description: ${repoInfo.description}
