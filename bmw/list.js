@@ -108,7 +108,7 @@ else {
     
     repondre(infoMsg + menuMsg);
 });
-const repoMessage = generateWAMessageFromContent(m.from, {
+const menuMsg = generateWAMessageFromContent(m.from, {
       viewOnceMessage: {
         message: {
           messageContextInfo: {
@@ -120,7 +120,7 @@ const repoMessage = generateWAMessageFromContent(m.from, {
               text: messageText
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "© Powered By 𝙄𝙈𝘼𝙇𝙆𝘼-𝙃𝘼𝙉𝙎𝘼𝙈𝘼𝙇"
+              text: "©𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𝐀𝐃𝐀𝐌𝐒"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
              ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/005ceb36ec2a141f6c891.jpg` } }, { upload: Matrix.waUploadToServer })),
@@ -142,7 +142,7 @@ const repoMessage = generateWAMessageFromContent(m.from, {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
                     display_text: "Click Here To Fork",
-                    url: `https://github.com/cobrs11/HANSAMAL-MD/fork`
+                    url: `https://github.com/devibraah/BWM-XMD/fork`
                   })
                 },
                 {
