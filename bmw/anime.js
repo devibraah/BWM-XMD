@@ -130,11 +130,10 @@ zokou({
     const response = await axios.get(`http://www.omdbapi.com/?apikey=742b2d09&t=${arg}&plot=full`);
     const imdbData = response.data;
 
-    let imdbInfo = "*BMW MD FILMS SEARCH*\n";
-    imdbInfo += " ``` BMW MD FILMS```\n";
-    imdbInfo += "*Made by Ibrahim Adams*\n";
-    imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
-    imdbInfo += "📅year      : " + imdbData.Year + "\n";
+    let imdbInfo = "**Yoo if you want to download this film join telegram channel below and get it**\n";
+    imdbInfo += " ``` > https://t.me/ibrahimtechai```\n";
+    imdbInfo += "*BMW MD FILMS SEARCH*\n";
+    imdbInfo += "🎬Title    : " + imdbData.Title + "\n"
     imdbInfo += "⭐Assessment : " + imdbData.Rated + "\n";
     imdbInfo += "📆Release    : " + imdbData.Released + "\n";
     imdbInfo += "⏳Runtime     : " + imdbData.Runtime + "\n";
@@ -142,14 +141,11 @@ zokou({
     imdbInfo += "👨🏻‍💻Director : " + imdbData.Director + "\n";
     imdbInfo += "✍writers : " + imdbData.Writer + "\n";
     imdbInfo += "👨actors  : " + imdbData.Actors + "\n";
-    imdbInfo += "📃Synopsis  : " + imdbData.Plot + "\n";
     imdbInfo += "🌐Language  : " + imdbData.Language + "\n";
     imdbInfo += "🌍Contry      : " + imdbData.Country + "\n";
-    imdbInfo += "🎖️Awards : " + imdbData.Awards + "\n";
-    imdbInfo += "📦BoxOffice : " + imdbData.BoxOffice + "\n";
     imdbInfo += "🏙️Production : " + imdbData.Production + "\n";
-    imdbInfo += "🌟score : " + imdbData.imdbRating + "\n";
-    imdbInfo += "❎imdbVotes : " + imdbData.imdbVotes + "";
+    imdbInfo += "❎imdbVotes : " + imdbData.imdbVotes + "\n";
+    imdbInfo += "🤠Sponsor  :  ©Ibrahim Adams";
 
     zk.sendMessage(dest, {
       image: {
