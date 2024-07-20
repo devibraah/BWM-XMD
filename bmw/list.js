@@ -107,11 +107,29 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
 else {
     
     repondre(infoMsg + menuMsg);
-    
 }
-
-});
-nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
+const repoMessage = generateWAMessageFromContent(m.from, {
+      viewOnceMessage: {
+        message: {
+          messageContextInfo: {
+            deviceListMetadata: {},
+            deviceListMetadataVersion: 2
+          },
+          interactiveMessage: proto.Message.InteractiveMessage.create({
+            body: proto.Message.InteractiveMessage.Body.create({
+              text: messageText
+            }),
+            footer: proto.Message.InteractiveMessage.Footer.create({
+              text: "© Powered By 𝙄𝙈𝘼𝙇𝙆𝘼-𝙃𝘼𝙉𝙎𝘼𝙈𝘼𝙇"
+            }),
+            header: proto.Message.InteractiveMessage.Header.create({
+             ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/005ceb36ec2a141f6c891.jpg` } }, { upload: Matrix.waUploadToServer })),
+              title: "",
+              gifPlayback: true,
+              subtitle: "",
+              hasMediaAttachment: false 
+            }),
+            nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
               buttons: [
                 {
                   name: "quick_reply",
