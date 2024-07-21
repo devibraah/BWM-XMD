@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: Bmw-Md
+    env: docker
+    region: Frankfurt
+    plan: free
+    dockerfilePath: Dockerfile
+
+
