@@ -10,11 +10,10 @@ ports:
     protocol: http
 
 env:
-  AUTO_READ: no
+  ANTI_DELETE_MESSAGE: yes
   AUTO_READ_STATUS: yes
-  AUTO_RECORDING: 3
-  AUTO_REJECT_CALLS: false
-  DEPLOYMENT_PLATFORM: koyeb
+  PRESENCE: 1
+  STARTING_BOT_MESSAGE: yes
   KOYEB_APP_NAME: Bmw md
 
 regions:
