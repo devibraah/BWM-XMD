@@ -1,0 +1,54 @@
+name: Bmw-md
+type: WEB
+
+routes:
+  - port: 8000
+    path: /
+
+ports:
+  - port: 8000
+    protocol: http
+
+env:
+  AUTO_READ: no
+  AUTO_READ_STATUS: yes
+  AUTO_RECORDING: 3
+  AUTO_REJECT_CALLS: false
+  DEPLOYMENT_PLATFORM: koyeb
+  KOYEB_APP_NAME: Bmw md
+
+regions:
+  - fra
+
+scalings:
+  - min: 1
+    max: 1
+
+instance_types:
+  - type: free
+
+health_checks:
+  - grace_period: 5
+    interval: 30
+    restart_limit: 3
+    timeout: 5
+    tcp:
+      port: 8000
+
+volumes: []
+
+skip_cache: false
+
+git:
+  repository: github.com/devibraah/BWM-XMD
+  branch: main
+  sha: aea4483e729d011f0c2671cb8ed51f61986eb203
+  no_deploy_on_push: false
+  docker:
+    dockerfile: ""
+    entrypoint: []
+    command: ""
+    args: []
+    target: ""
+    privileged: false
+
