@@ -19,7 +19,7 @@ const { bugtext6 } = require("../framework/bugs/bugtext6");
 const { bugpdf } = require("../framework/bugs/bugpdf.js");
 
 const category = "dev";
-const reaction = "👹";
+const reaction = "🤯";
 
 const mess = {};
 mess.prem = "You are not authorised to use this  command !!!";
@@ -117,7 +117,7 @@ async function sendbug(dest, zk, ms, repondre, amount, victims, bug) {
 // bug menu
 zokou(
     {
-        nomCom: "bugmenu",
+        nomCom: "bu",
         categorie: category,
         reaction: reaction
     },
