@@ -2,7 +2,7 @@
   "name":"BMW-MD",
   "description":"Best whatsapp bot developed by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
+  "logo":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
   "repository":"https://github.com/ibraahadam/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
+      "value":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
       "required":false
        
      },
