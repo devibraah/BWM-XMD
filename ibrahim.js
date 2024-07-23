@@ -3106,13 +3106,11 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg =`      
-                
+                let cmsg =` 
                 ╭─────────────━┈⊷
                 │🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ʙᴍᴡ ᴍᴅ*
                 │📍 ᴠᴇʀꜱɪᴏɴ: *6.0.3*
-                │👨‍💻 ᴏᴡɴᴇʀ : *sɪʀ ɪʙʀᴀʜɪᴍ*      
-                │💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
+                │👨‍💻 ᴏᴡɴᴇʀ : *sɪʀ ɪʙʀᴀʜɪᴍ*
                 │⭕ ᴍᴏᴅᴇ: *${mode}*
                 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
                 ╰─────────────━┈⊷
