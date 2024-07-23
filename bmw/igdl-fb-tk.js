@@ -25,6 +25,72 @@ zokou({nomCom : "instagram" , categorie : "Download"},async (dest , zk , command
   
 });
 
+zokou({nomCom : "twitter" , categorie : "Download"},async (dest , zk , commandeOptions)=>{
+  const {ms,repondre,arg} = commandeOptions ;
+
+  let link = arg.join(' ')
+
+  if (!arg[0]) { repondre('Veillez insérer un lien video instagramme');return}; 
+
+  try {
+     
+    let igvid = await axios('https://api.maher-zubair.tech/download/twitter?url='+link)
+
+    if (igvid.data.data.data[0].type == 'video') {
+    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader powered by *Bmw-Md*",gifPlayback : false },{quoted : ms}) 
+    }
+    else {
+        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *Bmw-Md*"})
+    }
+  
+  } catch (e) {repondre("erreur survenue lors du téléchargement \n " + e)}
+  });
+
+
+  zokou({nomCom : "Spotify" , categorie : "Download"},async (dest , zk , commandeOptions)=>{
+  const {ms,repondre,arg} = commandeOptions ;
+
+  let link = arg.join(' ')
+
+  if (!arg[0]) { repondre('Veillez insérer un lien video instagramme');return}; 
+
+  try {
+     
+    let igvid = await axios('https://api.maher-zubair.tech/download/spotify?url=$'+link)
+
+    if (igvid.data.data.data[0].type == 'video') {
+    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader powered by *Bmw-Md*",gifPlayback : false },{quoted : ms}) 
+    }
+    else {
+        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *Bmw-Md*"})
+    }
+  
+  } catch (e) {repondre("erreur survenue lors du téléchargement \n " + e)}
+  
+});
+
+
+zokou({nomCom : "socialmedia" , categorie : "Download"},async (dest , zk , commandeOptions)=>{
+  const {ms,repondre,arg} = commandeOptions ;
+
+  let link = arg.join(' ')
+
+  if (!arg[0]) { repondre('Veillez insérer un lien video instagramme');return}; 
+
+  try {
+     
+    let igvid = await axios('https://api.maher-zubair.tech/download/alldownload2?url='+link)
+
+    if (igvid.data.data.data[0].type == 'video') {
+    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader powered by *Bmw-Md*",gifPlayback : false },{quoted : ms}) 
+    }
+    else {
+        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *Bmw-Md*"})
+    }
+  
+  } catch (e) {repondre("erreur survenue lors du téléchargement \n " + e)}
+  
+});
 
 zokou({
   nomCom: "facabook",
