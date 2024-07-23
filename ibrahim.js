@@ -3111,7 +3111,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 │🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ʙᴍᴡ ᴍᴅ*
                 │📍 ᴠᴇʀꜱɪᴏɴ: *6.0.3*
                 │👨‍💻 ᴏᴡɴᴇʀ : *sɪʀ ɪʙʀᴀʜɪᴍ*
-                │⭕ ᴍᴏᴅᴇ: *${mode}*
+                │⭕ ᴍᴏᴅᴇ: *${md}*
                 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
                 ╰─────────────━┈⊷
                 *Join Whatsapp Channel For Updates*
