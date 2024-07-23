@@ -138,26 +138,8 @@ zokou(
         let menu = `${mono}Hello ${ms.pushName}
 ${timewisher(time)}
 
-┏❏ ⌜ *BMW MD CRASHER* ⌟  ❐
-❐ bug
-❐ crash
-❐ loccrash
-❐ amountbug <amount>
-❐ crashbug 254XXXX
-❐ pmbug 254XXXX
-❐ delaybug 254XXXX
-❐ trollybug 254XXXX
-❐ docubug 254XXXX
-❐ unlimitedbug 254XXXX
-❐ bombug 254XXXX
-❐ lagbug 254XXXX
-❐ gcbug <grouplink>
-❐ delaygcbug <grouplink>
-❐ trollygcbug <grouplink>
-❐ laggcbug <grouplink>
-❐ bomgcbug <grouplink>
-❐ unlimitedgcbug <grouplink>
-❐ docugcbug <grouplink>
+
+
 ┗❏${mono}`;
         switch (version) {
             case "v1":
@@ -191,7 +173,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y",
+                                        "https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
