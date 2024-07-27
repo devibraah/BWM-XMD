@@ -37,7 +37,7 @@
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/devibraah/BWM-XMD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+*After that tap on the link you have created and deploy*
 
 ***
 
