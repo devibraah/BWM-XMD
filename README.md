@@ -31,6 +31,9 @@
 
 
 *********
+*To avoid heroku ban fork my repo then copy that forked link and join it at the end of this link👇*
+ 
+ https://dashboard.heroku.com/new?template=
 
 </p>
 
