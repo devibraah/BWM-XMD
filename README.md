@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/679935f170955bdf769af.jpg"
+    <img alt="wasi" height="300" src="https://telegra.ph/file/679935f170955bdf769af.jpg">
     <h1 align="center">BMW MD BEST WABOT</h1>
   </a>
 </p>
@@ -29,8 +29,8 @@
 
 - <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
-***
-****
+
+*********
 
 </p>
 
@@ -38,7 +38,7 @@
 
 ***
 
-- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p
+- <a href="https://toystack.ai"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
