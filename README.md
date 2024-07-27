@@ -38,6 +38,8 @@
 </p>
 
 *After that tap on the link you have created and deploy*
+***
+[How to jion that link](https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t)
 
 ***
 
