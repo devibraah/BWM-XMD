@@ -3108,7 +3108,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ╭─────────────━┈⊷ 
-│ > ᴀɪ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ
+│🌏 *ᴀɪ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
