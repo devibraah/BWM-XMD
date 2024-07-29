@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Bmw-Md
+    name: BMW-MD
     env: docker
     region: Frankfurt
     plan: free
