@@ -25,6 +25,7 @@
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
                 "@whiskeysockets/baileys": "github:Luffy2ndAccount/Baileys",
+    "ytdl-core": "github:franceking1/flash-dls",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide-scraper": "^1.0.1",
     "axios": "^1.4.0",
@@ -66,8 +67,7 @@
     "typescript": "^5.1.6",
     "wa-sticker-formatter": "^4.4.4",
     "youtube-yts": "^2.0.0",
-    "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
+    "youtubedl-core": "^4.11.7"
   }
 }
