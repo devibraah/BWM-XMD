@@ -25,7 +25,7 @@
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
                 "@whiskeysockets/baileys": "github:Luffy2ndAccount/Baileys",
-    "ytdl-core": "github:franceking1/flash-dls",
+    "ytdl-core": "npm:@distube/ytdl-core",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide-scraper": "^1.0.1",
     "axios": "^1.4.0",
