@@ -7,7 +7,7 @@
     "test": "node ibrahim.js",
     "s": "node ibrahim.js",
     "bmwmd": "pm2 start ibrahim.js --attach",
-    "bmwmd": "pm2 start ibrahim.js --attach",
+    "bmwmd": "pm2 start ibrahm.js --attach",
     "c": "tsc"
   },
   "keywords": [
