@@ -4,6 +4,9 @@
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/679935f170955bdf769af.jpg" alt="01" border="0" /></a>                     
     <h1 align="center">BMW MD BEST WABOT</h1>
   </a>
+  <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
   
 </p>
 <p align="center">
