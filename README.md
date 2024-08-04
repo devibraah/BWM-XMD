@@ -159,6 +159,14 @@ In conclusion, the ChatBot solution presented here provides an efficient and use
 We welcome any feedback or suggestions you may have to help improve the chatbot solution further. With the ability to integrate with different messaging platforms and services, this solution can be adapted to various use cases and industries. As the chatbot ecosystem continues to grow, we believe that solutions like this will play an increasingly important role in providing seamless and efficient interactions between users and services.
 
 
-[Ibrahim Adams Code]
-[BMW MD COPY]
-[Thanks To God]
+[Ibrahim Adams Code](.)
+
+
+
+
+[BMW MD COPY](.)
+
+
+
+
+[Thanks To God](.)
