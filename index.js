@@ -1,8 +1,40 @@
+/**
+Yoo bro what au looking for
+Just deploy the bot with original repo
+
+BMW MD
+
+Made by dev Ibrahim Adams
+
+
+                 _.u[[/;:,.         .odMMMMMM'
+              .o888UU[[[/;:-.  .o@P^    MMM^
+             oN88888UU[[[/;::-.        dP^
+            dNMMNN888UU[[[/;:--.   .o@P^
+           ,MMMMMMN888UU[[/;::-. o@^
+           NNMMMNN888UU[[[/~.o@P^
+           888888888UU[[[/o@^-..
+          oI8888UU[[[/o@P^:--..
+       .@^  YUU[[[/o@^;::---..
+     oMP     ^/o@P^;:::---..
+  .dMMM    .o@^ ^;::---...
+ dMMMMMMM@^`       `^^^^
+YMMMUP^
+
+ Unclone version 😂🤣
+
+ **/
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Session Generator</title>
+  <title>Bmw md</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -75,11 +107,6 @@
   </style>
 </head>
 <body>
-
-  <button onclick="window.open(`/qr`)" class="btn">qr code</button>
-  <button onclick="window.open(`/pair`)" class="btn">pair code</button>
-  <button onclick="window.open(`https://github.com/Kavishan0/KAVISHAN-MD`)" class="btn">github</button>
-  
 
 </body>
 </html>
