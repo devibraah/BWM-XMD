@@ -2,12 +2,12 @@
   "name": "bmwmd",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "body.js",
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach",
-    "bmwmd": "pm2 start ibrahim.js --attach",
+    "test": "node body.js",
+    "s": "node body.js",
+    "bmwmd": "pm2 start body.js --attach",
+    "bmwmd": "pm2 start body.js --attach",
     "c": "tsc"
   },
   "keywords": [
@@ -68,6 +68,6 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
+    "ytdl-core": "npm:@distube/ytdl-core"
   }
 }
