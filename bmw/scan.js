@@ -15036,7 +15036,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
  
- https://ibrahim-adams.onrender.com/pair
+ https://ibrahim-adams.onrender.com
  
  
  *STEPS TO GET SESSION*
