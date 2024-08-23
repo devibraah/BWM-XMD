@@ -31,7 +31,7 @@
 ***
 
 
-- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://ibrahim-adams.onrender.com"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 *********
