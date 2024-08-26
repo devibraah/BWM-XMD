@@ -34,7 +34,7 @@
 - <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
-- <a href="https://dashboard.heroku.com/new?template=https://github.com/devibraah/BWM-XMD"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?template=https://github.com/devibraah/BWM-XMD"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
