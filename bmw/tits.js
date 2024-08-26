@@ -25997,7 +25997,7 @@ reaction: "🎤"
 **/
 
 
-
+/**
 const { zokou } = require("../framework/zokou");
 const yts = require('yt-search');
 const ytdl = require('ytdl-core');
@@ -26079,7 +26079,7 @@ zokou({
   }
 });
 
- **/ 
+ 
 zokou({
   nomCom: "song",
   categorie: "Search",
@@ -26391,7 +26391,7 @@ zokou({
   }
 });
 
-
+**/
 
 
 
