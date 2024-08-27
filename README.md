@@ -33,8 +33,19 @@
 
 - <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
+*********
+*To avoid heroku ban fork my repo then copy that forked link and join it at the end of this link👇*
+ 
+ https://dashboard.heroku.com/new?template=
+
+</p>
+
+*After that tap on the link you have created and deploy*
 ***
-- <a href="https://dashboard.heroku.com/new?template=https://github.com/devibraah/BWM-XMD"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+[Tap here see how to jion that link](https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t)
+
+***
+- <a href="https://dashboard.heroku.com/new?template=https://github.com/omlugha/BWM-XMD"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
