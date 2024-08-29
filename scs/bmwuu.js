@@ -1,7 +1,7 @@
-const { zokou } = require("../framework/zokou");
-const { delay, loading, react } = require("../framework/utils");
+const { adams } = require("../Ibrahim/adams");
+const { delay, loading, react } = require("../Ibrahim/utils");
 const moment = require("moment-timezone");
-const conf = require("../set.js");
+const conf = require("../config.js");
 const fs = require("fs");
 const path = require("path");
 const {
@@ -10,13 +10,13 @@ const {
 } = require("@whiskeysockets/baileys");
 
 // bug database
-const { bugtext1 } = require("../framework/bugs/bugtext1");
-const { bugtext2 } = require("../framework/bugs/bugtext2");
-const { bugtext3 } = require("../framework/bugs/bugtext3");
-const { bugtext4 } = require("../framework/bugs/bugtext4");
-const { bugtext5 } = require("../framework/bugs/bugtext5");
-const { bugtext6 } = require("../framework/bugs/bugtext6");
-const { bugpdf } = require("../framework/bugs/bugpdf.js");
+const { bugtext1 } = require("../Ibrahim/bugs/bugtext1");
+const { bugtext2 } = require("../Ibrahim/bugs/bugtext2");
+const { bugtext3 } = require("../Ibrahim/bugs/bugtext3");
+const { bugtext4 } = require("../Ibrahim/bugs/bugtext4");
+const { bugtext5 } = require("../Ibrahim/bugs/bugtext5");
+const { bugtext6 } = require("../Ibrahim/bugs/bugtext6");
+const { bugpdf } = require("../Ibrahim/bugs/bugpdf.js");
 
 const category = "dev";
 const reaction = "🤯";
@@ -115,7 +115,7 @@ async function sendbug(dest, zk, ms, repondre, amount, victims, bug) {
 // --cmds--
 
 // bug menu
-zokou(
+adams(
     {
         nomCom: "bu",
         categorie: category,
@@ -188,7 +188,7 @@ ${timewisher(time)}
 );
 
 //bug
-zokou(
+adams(
     {
         nomCom: "bug",
         categorie: category,
@@ -229,7 +229,7 @@ zokou(
 );
 
 //crash
-zokou(
+adams(
     {
         nomCom: "crash",
         categorie: category,
@@ -254,7 +254,7 @@ zokou(
 );
 
 //loccrash
-zokou(
+adams(
     {
         nomCom: "loccrash",
         reaction: "\uD83D\uDD16",
@@ -286,7 +286,7 @@ zokou(
 );
 
 //crashbug
-zokou(
+adams(
     {
         nomCom: "crashbug",
         categorie: category,
@@ -377,7 +377,7 @@ zokou(
 );
 
 // amountbug
-zokou(
+adams(
     {
         nomCom: "amountbug",
         categorie: category,
@@ -434,7 +434,7 @@ zokou(
 );
 
 //pmbug
-zokou(
+adams(
     {
         nomCom: "pmbug",
         categorie: category,
@@ -518,7 +518,7 @@ zokou(
 );
 
 //delaybug
-zokou(
+adams(
     {
         nomCom: "delaybug",
         categorie: category,
@@ -602,7 +602,7 @@ zokou(
 );
 
 //docubug
-zokou(
+adams(
     {
         nomCom: "docubug",
         categorie: category,
@@ -686,7 +686,7 @@ zokou(
 );
 
 //unlimitedbug
-zokou(
+adams(
     {
         nomCom: "unlimitedbug",
         categorie: category,
@@ -770,7 +770,7 @@ zokou(
 );
 
 //bombug
-zokou(
+adams(
     {
         nomCom: "bombug",
         categorie: category,
@@ -854,7 +854,7 @@ zokou(
 );
 
 //lagbug
-zokou(
+adams(
     {
         nomCom: "lagbug",
         categorie: category,
@@ -938,7 +938,7 @@ zokou(
 );
 
 //trollybug
-zokou(
+adams(
     {
         nomCom: "trollybug",
         categorie: category,
