@@ -1,3 +1,4 @@
+
 const { adams } = require('../Ibrahim/adams');
 
 adams({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
