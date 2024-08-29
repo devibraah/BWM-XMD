@@ -8,7 +8,7 @@ const s = require(__dirname + "/../config");
 const more = String.fromCharCode(8206)
 const Taphere = more.repeat(4001)
 
-adams({ nomCom: "bugmenu", categorie: "General" }, async (dest, zk, commandeOptions) => {
+adam({ nomCom: "bugmenu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../Ibrahim//adams");
     var coms = {};
