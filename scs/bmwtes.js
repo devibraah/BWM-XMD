@@ -27,7 +27,7 @@ adams({
       const videoUrl = videos[0].url;
 
       // Call the API endpoint with the video URL to fetch the video download URL
-      const apiResponse = await fetch(`https://gifted-apis-third-30b2fdbb9819.herokuapp.com/api/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=giftedtechk`);
+      const apiResponse = await fetch(`https://gifted-apis-third-30b2fdbb9819.herokuapp.com/api/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=prabath-api_5f6557`);
       const apiResult = await apiResponse.json();
 
       if (apiResult.status === 200 && apiResult.success) {
