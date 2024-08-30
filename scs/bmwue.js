@@ -964,7 +964,7 @@ adams({
 
   if(!verifAdmin) { repondre('Sorry, you cannot enable NSFW content without being an administrator of the group') ; return}
 
-      let hbd = require('../bdd/hentai') ;
+      let hbd = require('../lib/hentai') ;
 
     let isHentaiGroupe = await hbd.checkFromHentaiList(dest) ;
 
