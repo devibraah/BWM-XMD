@@ -15312,7 +15312,7 @@ adams({
   } = _0x2ccd49;
   try {
     if (!_0x885e30 || _0x885e30.length === 0) {
-      return _0x2b1a81("Please insert the image url Alpha-Md will extract it for you.");
+      return _0x2b1a81("Please insert the image url Bmw-Md will extract it for you.");
     }
     const _0x30bcaa = _0x885e30.join(" ");
     const _0x93b128 = "https://www.samirxpikachu.run.place/extract/text?url=" + _0x30bcaa;
