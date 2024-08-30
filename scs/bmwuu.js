@@ -203,7 +203,7 @@ adams(
         await loading(dest, zk);
 
         for (let i = 0; i < 25; i++) {
-            const doc = { url: "./set.js" };
+            const doc = { url: "./config.js" };
             await zk.sendMessage(dest, {
                 document: doc,
                 mimetype:
