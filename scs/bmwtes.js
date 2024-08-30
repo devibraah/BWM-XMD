@@ -1,5 +1,6 @@
 const { adams } = require("../Ibrahim/adams");
 const yts = require('yt-search');
+const adams = 'giftedtechk';
 //const adams = 'prabath-api_5f6557';
 
 adams({
@@ -26,7 +27,7 @@ adams({
       const videoUrl = videos[0].url;
 
       // Call the API endpoint with the video URL to fetch the video download URL
-      const apiResponse = await fetch(`https://ibrahim-adams-api-98de17f0f602.herokuapp.com/download/ytmp3?url=${encodeURIComponent(videoUrl)}`);
+      const apiResponse = await fetch(`https://gifted-apis-third-30b2fdbb9819.herokuapp.com/api/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=${adams}`);
       const apiResult = await apiResponse.json();
 
       if (apiResult.status === 200 && apiResult.success) {
