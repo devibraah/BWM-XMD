@@ -26,7 +26,7 @@ adams({
       const videoUrl = videos[0].url;
 
       // Call the API endpoint with the video URL to fetch the video download URL
-      const apiResponse = await fetch(`https://ibrahim-adams-api-98de17f0f602.herokuapp.com/download/ytmp3?url=${encodeURIComponent(videoDlUrl);
+      const apiResponse = await fetch(`https://ibrahim-adams-api-98de17f0f602.herokuapp.com/download/ytmp3?url=${encodeURIComponent(videoUrl)}`);
       const apiResult = await apiResponse.json();
 
       if (apiResult.status === 200 && apiResult.success) {
