@@ -55,8 +55,8 @@ adams({
     } else {
       repondre('No videos found.');
     }
-  } catch (error) {
-    console.error('Error from API:', error);
+    } else {
+  
     repondre('An error occurred while searching or downloading the video.' + error);
   }
 });
