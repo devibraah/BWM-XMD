@@ -32,13 +32,13 @@ adams({
       const apiResult = await apiResponse.json();
 
         
-      if (apiResult.status === 200 && apiResult.success) {
-        const audioDlUrl = apiResult.result.download_url;
+            if (apiResult.status === 200 && apiResult.success) {
+        const videoDlUrl = apiResult.result.download_url;
 
         // Prepare the message with video details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*BMW-MD SONG PLAYER*\n\n*©Ibrahim Adams*`
+          caption: `*BMW-MD SONG PLAYER*`
 
         };
 
@@ -51,12 +51,15 @@ adams({
           mimetype: 'video/mp4'
         }, { quoted: ms });
 
-        repondre('*Error*');
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download the video. Please try again later.');
+      }
     } else {
       repondre('No videos found.');
     }
-    } else {
-  
-    repondre('An error occurred while searching or downloading the video.' + error);
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the video.');
   }
 });
