@@ -130,7 +130,7 @@ adams(
         const version = versions[Math.floor(Math.random() * versions.length)];
         const menuImage = fs.readFileSync(
             path.resolve(
-                path.join(__dirname, "..", "media", "deleted-message.jpg")
+                path.join(__dirname, "..", "file", "deleted-message.jpg")
             )
         );
         const tumbUrl =
