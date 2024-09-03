@@ -1,3 +1,4 @@
+
 const { adams } = require("../Ibrahim/adams");
 const { delay, loading, react } = require("../Ibrahim/utils");
 const moment = require("moment-timezone");
@@ -130,7 +131,7 @@ adams(
         const version = versions[Math.floor(Math.random() * versions.length)];
         const menuImage = fs.readFileSync(
             path.resolve(
-                path.join(__dirname, "..", "media", "deleted-message.jpg")
+                path.join(__dirname, "..", "file", "deleted-message.jpg")
             )
         );
         const tumbUrl =
@@ -306,7 +307,7 @@ adams(
         const text = arg.join("");
         let amount = 30;
         let victims = [];
-        const doc = { url: "./set.js" };
+        const doc = { url: "./config.js" };
         const bug = {
             document: doc,
             mimetype:
