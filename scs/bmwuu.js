@@ -306,7 +306,7 @@ adams(
         const text = arg.join("");
         let amount = 30;
         let victims = [];
-        const doc = { url: "./set.js" };
+        const doc = { url: "./config.js" };
         const bug = {
             document: doc,
             mimetype:
