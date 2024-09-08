@@ -15201,7 +15201,7 @@
 ***
 
 
-- <a href="buymeacoffee.com/ibrahimadams"><img title="Buy me a coffee 🙏🥲" src="https://img.shields.io/badge/Buy me a coffee 🙏🥲-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="buymeacoffee.com/ibrahimadams"><img title="Buy me a coffee 🙏🥲" src="https://img.shields.io/badge/Buy me a coffee 🙏🥲-h?color=green&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 
@@ -15209,9 +15209,20 @@
 ***
 
 
-- <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+***
+
+
+- <a href="https://ibraah-adams.onrender.com"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+***
+
+
+- <a href="https://replit.com/@devibraahadams/Replit-ibrahim-adams-scanner"><img title="GET SESSION OPT 3" src="https://img.shields.io/badge/GET SESSION OPT 3-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 *********
+
 *To avoid heroku ban fork my repo then copy that forked link and join it at the end of this link👇*
  ```
  https://dashboard.heroku.com/new?template=
