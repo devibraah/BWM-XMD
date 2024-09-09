@@ -15209,54 +15209,32 @@
 ***
 
 
-- <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+### 🧚‍♀️IBRAHIM ADAM'S💫
 
 ***
+⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94770828171)
 
-- <a href="https://ibraah-adams.onrender.com"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-***
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94786825798)
 
+****
+👨‍💻  Chethana bro [ Supporter, bug fixer ]
 
-- <a href="https://replit.com/@devibraahadams/Replit-ibrahim-adams-scanner"><img title="GET SESSION OPT 3" src="https://img.shields.io/badge/GET SESSION OPT 3-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-Whatsapp-blue.svg)](https://Wa.me/+94766598862)
 
-*********
+👨‍💻  Thimira bro  [ Helper & information Founder]
 
-*To avoid heroku ban fork my repo then copy that forked link and join it at the end of this link👇*
- ```
- https://dashboard.heroku.com/new?template=
-```
-</p>
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94781508896)
 
-*After that tap on the link you have created and deploy*
-***
-**[`How to connect forked link with heroku template and avoid  heroku ban..Tap here and see the video`](https://files.fm/f/hqnjmf6v4z)**
+👨‍💻 Himasha bro   [  Erorr founder ]
 
-***
-- <a href="https://dashboard.heroku.com/new?template=https://github.com/omlugha/BWM-XMD"><img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94762657701)
 
-***
-
-- <a href="https://toystack.ai"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-***
-
-- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-***
-
-
-- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-***
-
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-***
-
-- <a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
+ # ⚡INFORMATION
 ***
 
 </p>
