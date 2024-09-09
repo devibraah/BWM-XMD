@@ -15172,16 +15172,20 @@
 
 
 
-
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-    
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg" alt="01" border="0" /></a>                     
-    <h1 align="center">BMW MD BEST WABOT</h1>
+  <a href="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
+    <h1 align="center"> BMW BWB </h1>
   </a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
+</p>  
+
+<a aria-label="WhatsApp Channel" href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+    <img alt="Whatsapp Channel" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+</p>
+
+---
 
   ***
 
