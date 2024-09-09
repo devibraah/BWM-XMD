@@ -1,6 +1,8 @@
 {
+  
   "name": "BMW MD",
   "description": "Best Whatsapp bot made by Ibrahim Adams",
+  "logo": "https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg",
   "keywords": [
     "whatsapp bot"
   ],
@@ -23,12 +25,12 @@
       "value": ""
     },
     "AUTO_READ": {
-      "description": "make it true if you want bot to read message",
+      "description": "Enter true for autoread messages. false for no",
       "required": false,
       "value": ""
     },
     "AUTO_TYPING": {
-      "description": "make it true if you want bot to show typing",
+      "description": "Enter true for autotype. false for no",
       "required": false,
       "value": ""
     },
@@ -51,11 +53,7 @@
       "description": "make it true if you want to reject call",
       "required": false,
       "value": ""
-    },
-    "PREFIX": {
-      "description": "Enter your bot prefix eg .,+@#$¶∆×π",
-      "required": false,
-      "value": ""
+   
     }
     },
   "buildpacks": [

@@ -15172,17 +15172,21 @@
 
 
 
-
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-    
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg" alt="01" border="0" /></a>                     
-    <h1 align="center">BMW MD BEST WABOT</h1>
+  <a href="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
+    <h1 align="center"> BMW BWB MADE BY IBRAHIM ADAMS</h1>
   </a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
+</p>  
   
+</p>
+
+---
+
+  ***
+
+<a href="buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/ibrahimaitech"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
@@ -15198,14 +15202,11 @@
 
 
 
-***
-
-<a href="buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-***
 
 
-- <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+
+ <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 
@@ -15219,11 +15220,11 @@
 ***
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://Wa.me/+94770828171)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://Wa.me/+94786825798)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
 
 ****
 ⭕  DEPLOY ON [ RENDER ]
