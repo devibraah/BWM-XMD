@@ -76,7 +76,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["Ethix-MD", "safari", "3.3"],
+            browser: ["BMW-MD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
