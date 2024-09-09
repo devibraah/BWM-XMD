@@ -15200,8 +15200,12 @@
 
 ***
 
+<a href="buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- <a href="buymeacoffee.com/ibrahimadams"><img title="Buy me a coffee 🙏🥲" src="https://img.shields.io/badge/Buy me a coffee 🙏🥲-h?color=green&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+***
+
+
+- <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 
@@ -15215,26 +15219,26 @@
 ***
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94770828171)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://Wa.me/+94770828171)
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-red.svg)](https://Wa.me/+94786825798)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://Wa.me/+94786825798)
 
 ****
-👨‍💻  Chethana bro [ Supporter, bug fixer ]
+⭕  DEPLOY ON [ RENDER ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-Whatsapp-blue.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
 
-👨‍💻  Thimira bro  [ Helper & information Founder]
+⭕  DEPLOY ON [ TOYSTACK ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94781508896)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
 
-👨‍💻 Himasha bro   [  Erorr founder ]
+⭕  DEPLOY ON [ KOYEB ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Findon-whatsapp-blue.svg)](https://Wa.me/+94762657701)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
 
- # ⚡INFORMATION
+ # ⚡ BMW INFO
 ***
 
 </p>
