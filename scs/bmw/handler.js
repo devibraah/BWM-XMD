@@ -65,7 +65,7 @@ const Handler = async (chatUpdate, sock, logger) => {
         const { isGroup, type, sender, from, body } = m;
         console.log(m);
 
-        const pluginDir = path.join(__dirname, '..', 'plugin');
+        const pluginDir = path.join(__dirname, '..', 'bmworder');
         const pluginFiles = await fs.readdir(pluginDir);
 
         for (const file of pluginFiles) {
