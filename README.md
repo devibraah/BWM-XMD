@@ -15182,7 +15182,11 @@
   <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
 </div>
-  
+
+  ***
+
+<a href="buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/ibrahimaitech"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
@@ -15198,9 +15202,6 @@
 
 
 
-***
-
-<a href="buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ***
 
@@ -15219,11 +15220,11 @@
 ***
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://Wa.me/+94770828171)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://Wa.me/+94786825798)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
 
 ****
 ⭕  DEPLOY ON [ RENDER ]
