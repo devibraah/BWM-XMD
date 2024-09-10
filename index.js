@@ -8,7 +8,7 @@ import {
     DisconnectReason,
     useMultiFileAuthState,
 } from '@whiskeysockets/baileys';
-import { Handler, Callupdate, GroupUpdate } from './src/event/index.js';
+import { Handler, Callupdate, GroupUpdate } from './scs/bmw/index.js';
 import express from 'express';
 import pino from 'pino';
 import fs from 'fs';
