@@ -15240,11 +15240,6 @@
       "description": "make it true if you want to reject call",
       "required": false,
       "value": ""
-    },
-    "PREFIX": {
-      "description": "Enter your bot prefix eg .,+@#$¶∆×π",
-      "required": false,
-      "value": ""
     }
     },
   "buildpacks": [
