@@ -15231,13 +15231,13 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
 
-⭕  DEPLOY ON [ TOYSTACK ]
+[![Find On Whatsapp ](https://img.shields.io/badge/➤How_to_deploy-blue.svg)](https://youtu.be/pxL3iQ4ZkL4?si=JYU3CFTPp8YdKOo5)
+
+⭕  DEPLOY ON [ Panel ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
 
-⭕  DEPLOY ON [ KOYEB ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤How_to_deploy-blue.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
  # ⚡ BMW INFO
 ***

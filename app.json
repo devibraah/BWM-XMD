@@ -15183,16 +15183,17 @@
 
 
 
-
 {
-  
   "name": "BMW MD",
   "description": "Best Whatsapp bot made by Ibrahim Adams",
-  "logo": "https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg",
+  "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
   "keywords": [
+    "bmw md",
+    "bmw wabot",
+    "best whatsapp bot",
     "whatsapp bot"
   ],
-  "repository": "",
+  "repository": "https://github.com/devibrah/BMW-MD",
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
@@ -15239,7 +15240,6 @@
       "description": "make it true if you want to reject call",
       "required": false,
       "value": ""
-   
     }
     },
   "buildpacks": [
