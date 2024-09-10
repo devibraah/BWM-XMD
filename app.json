@@ -15184,16 +15184,14 @@
 
 
 {
+  
   "name": "BMW MD",
   "description": "Best Whatsapp bot made by Ibrahim Adams",
   "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
   "keywords": [
-    "bmw md",
-    "bmw wabot",
-    "best whatsapp bot",
     "whatsapp bot"
   ],
-  "repository": "https://github.com/devibrah/BMW-MD",
+  "repository": "",
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
@@ -15202,44 +15200,45 @@
       "value": ""
     },
     "MODE": {
-      "description": "Enter true for public. false for private",
+      "description": "Enter true for public. no for private",
       "required": true,
       "value": "public"
     },
     "AUTO_STATUS_SEEN": {
-      "description": "Enter true for autoview status. false for no",
+      "description": "Enter true for autoview status. no for no",
       "required": false,
       "value": ""
     },
     "AUTO_READ": {
-      "description": "Enter true for autoread messages. false for no",
+      "description": "Enter true for autoread messages. no for no",
       "required": false,
       "value": ""
     },
     "AUTO_TYPING": {
-      "description": "Enter true for autotype. false for no",
+      "description": "Enter true for autotype. no for no",
       "required": false,
       "value": ""
     },
     "AUTO_RECORDING": {
-      "description": "make it true if you want bot to show recording audio",
+      "description": "Enter true if you want bot to show recording audio",
       "required": false,
       "value": ""
     },
     "ALWAYS_ONLINE": {
-      "description": "make it true if you want bot to show always online",
+      "description": "Enter it true if you want bot to show always online",
       "required": false,
       "value": ""
     },
     "AUTO_BLOCK": {
-      "description": "make it true if you want bot to auto block only 212 numbers",
+      "description": "Enter it true if you want bot to auto block only 212 numbers",
       "required": false,
       "value": ""
     },
     "REJECT_CALL": {
-      "description": "make it true if you want to reject call",
+      "description": "Enter it true if you want to reject call",
       "required": false,
       "value": ""
+   
     }
     },
   "buildpacks": [
