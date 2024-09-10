@@ -20,7 +20,8 @@ const alive = async (m, Matrix) => {
 
 > *BMW MD COMMAND LIST*
 
-> *This commands will guide you how to use me*
+ *This commands will guide*
+ *you how to use me*
 
   *BOT INFO*
   
