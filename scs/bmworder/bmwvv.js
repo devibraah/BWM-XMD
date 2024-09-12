@@ -23,7 +23,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     const type = Object.keys(msg)[0];
     
     const originalCaption = msg[type].caption || '';
-    const newCaption = `${originalCaption}\n\n> © Powered By Ethix-MD`;
+    const newCaption = `${originalCaption}\n\n> © Powered By BMW-MD`;
 
 
     // Download the media content
