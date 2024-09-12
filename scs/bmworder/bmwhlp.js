@@ -106388,6 +106388,13 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   }),
                 },
                 {
+                 name: 'cta_url',
+                  buttonParamsJson: JSON.stringify({
+                    display_text: "📽 HOW TO DEPLOY",
+                    url: 'https://ibrahim-adams.vercel.app/Deploy.html',
+                  }),
+                },
+                {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "🛰 WHATSAPP CHANNEL",
