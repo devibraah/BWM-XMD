@@ -106349,7 +106349,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://telegra.ph/file/0c225f7da5616cdcbec80.jpg',
+                  url: '/bmw.jpg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
