@@ -106348,8 +106348,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
-                image: {
-                  url: '/bmw.jpg',
+                image: fs.readFileSync('./bmw.jpg'),
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
