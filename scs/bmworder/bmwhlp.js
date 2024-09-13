@@ -106362,18 +106362,11 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📜 COMMANDS LIST",
+                    display_text: "📜 COMMAND LIST",
                     id: ".command",
                   }),
                 },
-                {
-                  name: 'quick_reply',
-                  buttonParamsJson: JSON.stringify({
-                    display_text: "🤠 DEVELOPER",
-                    id: ".owner",
-                  }),
-                },
-                {
+                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
                     display_text: "⏳ PING",
