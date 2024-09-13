@@ -106427,8 +106427,8 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
       {
         "name": "quick_reply",
         "buttonParamsJson": JSON.stringify({
-          display_text: "🧔 OWNER",
-          id: `${prefix}owner`
+          display_text: "📁 REPO",
+          id: `${prefix}repo`
         })
       }
     ];

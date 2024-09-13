@@ -106349,7 +106349,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://telegra.ph/file/0c225f7da5616cdcbec80.jpg',
+                  url: 'https://i.imgur.com/G3WM4D8.jpeg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -106362,18 +106362,11 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📜 COMMANDS LIST",
+                    display_text: "📜 COMMAND LIST",
                     id: ".command",
                   }),
                 },
-                {
-                  name: 'quick_reply',
-                  buttonParamsJson: JSON.stringify({
-                    display_text: "🤠 DEVELOPER",
-                    id: ".owner",
-                  }),
-                },
-                {
+                 {
                   name: 'quick_reply',
                   buttonParamsJson: JSON.stringify({
                     display_text: "⏳ PING",
