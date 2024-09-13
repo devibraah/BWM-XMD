@@ -106321,7 +106321,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
       owner,
     } = repoData;
 
-    const messageText = `*_BMW MD GITHUB INFORMATION:_*\n
+    const messageText = `*_BMW MD GITHUB INFORMATION_*\n
 *_Name:_* ${name}
 *_Stars:_* ${stargazers_count}
 *_Forks:_* ${forks_count}
@@ -106360,21 +106360,21 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'Contact Owner',
-                    url: 'https://wa.me/+254710772666?text=Hey_Mr_Ibrahim_Adams',
+                    display_text: 'SUBSCRIBE ON YOUTUBE',
+                    url: 'https://youtube.com/@ibrahimaitech',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'Click Here To Fork',
-                    url: 'https://github.com/devibraah/BWM-XMD/fork',
+                    display_text: 'BOT REPO',
+                    url: 'https://github.com/devibraah/BWM-XMD/',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'Join Our Community',
+                    display_text: 'WHATSAPP CHANNEL',
                     url: 'https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y',
                   }),
                 },
