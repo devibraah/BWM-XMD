@@ -15221,10 +15221,12 @@
 
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/)
 
+⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-white.svg)](https://youtu.be/RHWxSmRmDo8?si=lixAs57cC_G2LVXQ)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/nomal.html)
+
 
 ***
 
