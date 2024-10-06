@@ -15182,6 +15182,9 @@
 </p>
 
 ---
+***
+<a href="https://bmw-md-web-by-ibrahim.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="BMW_MD_WEB" width="270"></a>
+
 
   ***
 
@@ -15223,18 +15226,15 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/)
 
+
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/nomal.html)
 
 
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/RHWxSmRmDo8?si=LBaDe1lA3vdhS3Gx)
+
 ***
-
-⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
-
-****
 
 ⭕  DEPLOY ON [ RENDER ]
 
