@@ -17,7 +17,7 @@
 </p>
 
   <!-- Recent Commits GIF Animation -->
-  <img src="https://files.catbox.moe/jc9907.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
+  <img src="https://files.catbox.moe/rk4gab.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
 </p>
 
 
