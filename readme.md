@@ -16,6 +16,40 @@
   <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
 </p>
 
+  <!-- Recent Commits GIF Animation -->
+  <img src="https://files.catbox.moe/rk4gab.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
+</p>
+
+
+---
+
+# 🚀 GitHub Repo Activity
+
+<p align="center">
+  <!-- Repo Views -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevibraah%2FBWM-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+
+  <!-- Docker Size -->
+  <img src="https://img.shields.io/docker/image-size/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Size" alt="Docker Size">
+
+  <!-- Docker Pulls -->
+  <img src="https://img.shields.io/docker/pulls/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Pulls" alt="Docker Pulls">
+
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/forks/devibraah/BWM-XMD?label=Forks&style=social" alt="Forks Badge">
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/devibraah/BWM-XMD?style=social" alt="Stars Badge">
+
+  <!-- Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/devibraah/BWM-XMD?color=purple&label=Repo%20Size&style=plastic" alt="Repo Size">
+
+  <!-- License -->
+  <img src="https://img.shields.io/github/license/devibraah/BWM-XMD?color=purple&label=License&style=plastic" alt="License Badge">
+
+  <!-- Developer -->
+  <img src="https://img.shields.io/static/v1?label=Author&message=Ibrahim%20Adams&color=purple&style=plastic" alt="Developer Badge">
+</p>
 ---
 
 ## 🚀 Quick Start
@@ -52,9 +86,7 @@
   <!-- Repo Activity Stats Screen -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD" alt="Pinned GitHub Repo Activity" width="800">
 
-  <!-- Recent Commits GIF Animation -->
-  <img src="https://files.catbox.moe/q9r9eq.mp4" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
-</p>
+  
 
 ---
 
@@ -86,32 +118,3 @@ We welcome contributions to **BMW XMD**. If you encounter any bugs or have new i
   <small>&copy; 2024 CODE BY IBRAHIM ADAMS /// BMW XMD</small>
 </p>
 
----
-
-# 🚀 GitHub Repo Activity
-
-<p align="center">
-  <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevibraah%2FBWM-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
-
-  <!-- Docker Size -->
-  <img src="https://img.shields.io/docker/image-size/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Size" alt="Docker Size">
-
-  <!-- Docker Pulls -->
-  <img src="https://img.shields.io/docker/pulls/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Pulls" alt="Docker Pulls">
-
-  <!-- Forks -->
-  <img src="https://img.shields.io/github/forks/devibraah/BWM-XMD?label=Forks&style=social" alt="Forks Badge">
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/devibraah/BWM-XMD?style=social" alt="Stars Badge">
-
-  <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/devibraah/BWM-XMD?color=purple&label=Repo%20Size&style=plastic" alt="Repo Size">
-
-  <!-- License -->
-  <img src="https://img.shields.io/github/license/devibraah/BWM-XMD?color=purple&label=License&style=plastic" alt="License Badge">
-
-  <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=Author&message=Ibrahim%20Adams&color=purple&style=plastic" alt="Developer Badge">
-</p>
