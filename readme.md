@@ -22,21 +22,19 @@
 
 <p align="center">
   <!-- GET SESSION Button -->
-  <a href="https://ibrahim-adams.vercel.app" style="background-color: #1d72b8; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <a href="https://ibrahim-adams.vercel.app" style="background-color: #1d72b8; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: inline-block;">
     GET SESSION
   </a>
 
   <!-- DEPLOY Button -->
-  <a href="https://bmw-verification.vercel.app/nomal.html" style="background-color: #28a745; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <a href="https://bmw-verification.vercel.app/nomal.html" style="background-color: #28a745; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: inline-block;">
     DEPLOY
   </a>
 </p>
 
----
-
 <p align="center">
   <!-- BMW XMD Website Button -->
-  <a href="https://bmw-md-web-by-ibrahim.vercel.app/" style="background-color: #ff6347; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <a href="https://bmw-md-web-by-ibrahim.vercel.app/" style="background-color: #ff6347; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: inline-block;">
     BMW XMD Website
   </a>
 </p>
@@ -93,4 +91,34 @@ We welcome contributions to **BMW XMD**. If you encounter any bugs or have new i
 
 <p align="center">
   <small>&copy; 2024 CODE BY IBRAHIM ADAMS /// BMW XMD</small>
+</p>
+
+---
+
+# 🚀 GitHub Repo Activity
+
+<p align="center">
+  <!-- Repo Views -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevibraah%2FBWM-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+
+  <!-- Docker Size -->
+  <img src="https://img.shields.io/docker/image-size/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Size" alt="Docker Size">
+
+  <!-- Docker Pulls -->
+  <img src="https://img.shields.io/docker/pulls/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Pulls" alt="Docker Pulls">
+
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/forks/devibraah/BWM-XMD?label=Forks&style=social" alt="Forks Badge">
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/devibraah/BWM-XMD?style=social" alt="Stars Badge">
+
+  <!-- Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/devibraah/BWM-XMD?color=purple&label=Repo%20Size&style=plastic" alt="Repo Size">
+
+  <!-- License -->
+  <img src="https://img.shields.io/github/license/devibraah/BWM-XMD?color=purple&label=License&style=plastic" alt="License Badge">
+
+  <!-- Developer -->
+  <img src="https://img.shields.io/static/v1?label=Author&message=Ibrahim%20Adams&color=purple&style=plastic" alt="Developer Badge">
 </p>
