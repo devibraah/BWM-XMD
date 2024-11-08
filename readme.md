@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD" alt="Pinned GitHub Repo Activity" width="800">
 
   <!-- Recent Commits GIF Animation -->
-  <img src="https://media.giphy.com/media/26AOD9XdhcfEhv9do/giphy.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
+  <img src="https://files.catbox.moe/q9r9eq.mp4" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
 </p>
 
 ---
