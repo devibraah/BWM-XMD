@@ -50,17 +50,17 @@
 
 ---
 
-## 💻 Code Activities
-
-Here’s a quick view of the latest activities in the **BMW XMD** repository:
-
-- 🔧 Latest updates and fixes
-- 📜 Pull requests for improvements
-- 🔍 Issues and bug tracking
+## 💻 GitHub Repo Activity
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Ibrahim Adams Logo" width="150" style="border-radius: 50%; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD" alt="GitHub Activity Screen" width="800">
+  <!-- GitHub Repo Activity Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devibraah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
+
+  <!-- Repo Activity Stats Screen -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD" alt="Pinned GitHub Repo Activity" width="800">
+
+  <!-- Recent Commits GIF Animation -->
+  <img src="https://media.giphy.com/media/26AOD9XdhcfEhv9do/giphy.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
 </p>
 
 ---
