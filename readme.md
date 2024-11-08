@@ -1,51 +1,69 @@
 # BMW XMD MADE BY IBRAHIM ADAMS
 
-<p align="center">  
+<p align="center">
   <a href="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
-    <img alt="BMW XMD" height="300" src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
+    <!-- Replace with your video URL for the first image -->
+    <video width="500" height="300" controls>
+      <source src="https://example.com/your-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </a>
 </p>
 
-<p align="center" style="font-size: 24px; font-family: Arial, sans-serif;">
-  <marquee>BMW XMD MADE BY IBRAHIM ADAMS</marquee>
-</p>
+<h1 align="center" style="font-size: 40px; font-family: Arial, sans-serif;">BMW XMD MADE BY IBRAHIM ADAMS</h1>
 
 <p align="center">
-  <a href="https://github.com/devibraah/BWM-XMD"><img title="GitHub Repository" src="https://img.shields.io/badge/Visit%20GitHub%20Repo-black?style=for-the-badge&logo=github"></a>
+  <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
 </p>
-
----
-
-## 🌟 Key Features
-
-- **Multi-Platform Support**: Integrates seamlessly across various platforms like WhatsApp, Telegram, and Slack.
-- **Parallel Conversations**: Handles multiple conversations concurrently, ensuring no user is left behind.
-- **Auto Conversation Closing**: Automatically closes idle chats to keep your bot interactions efficient.
-- **End-to-End Ride Booking**: A simple yet powerful solution for users to book rides directly via the bot.
 
 ---
 
 ## 🚀 Quick Start
 
 <p align="center">
-  <a href="https://ibrahim-adams.vercel.app" style="background-color: #1d72b8; color: white; padding: 12px 24px; font-size: 18px; border-radius: 5px; text-decoration: none;">GET SESSION</a>
-  <a href="https://bmw-verification.vercel.app/nomal.html" style="background-color: #28a745; color: white; padding: 12px 24px; font-size: 18px; border-radius: 5px; text-decoration: none; margin-left: 10px;">DEPLOY</a>
+  <!-- GET SESSION Button -->
+  <a href="https://ibrahim-adams.vercel.app" style="background-color: #1d72b8; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    GET SESSION
+  </a>
+
+  <!-- DEPLOY Button -->
+  <a href="https://bmw-verification.vercel.app/nomal.html" style="background-color: #28a745; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    DEPLOY
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" style="background-color: #25D366; color: white; padding: 12px 24px; font-size: 18px; border-radius: 5px; text-decoration: none;">WhatsApp Channel</a>
-  <a href="https://wa.me/25471077266" style="background-color: #34b7f1; color: white; padding: 12px 24px; font-size: 18px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Contact Us</a>
+  <!-- BMW XMD Website Button -->
+  <a href="https://bmw-md-web-by-ibrahim.vercel.app/" style="background-color: #ff6347; color: white; padding: 20px 40px; font-size: 22px; font-weight: bold; border-radius: 10px; text-decoration: none; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    BMW XMD Website
+  </a>
 </p>
 
 ---
 
-## 🏠 Overview
+## 🌟 Key Features
 
-**BMW XMD** is a powerful multi-platform bot solution created by **Ibrahim Adams** to simplify interactions and provide a seamless experience for users across various messaging platforms like WhatsApp, Telegram, and more. The bot is built with scalability and efficiency in mind, enabling businesses and individuals to deploy bots that can handle high volumes of messages.
+- **Multi-Platform Support**: Integrates across platforms like WhatsApp, Telegram, Slack, and more.
+- **Parallel Conversations**: Efficiently handles numerous conversations concurrently.
+- **Auto Conversation Closing**: Closes idle conversations automatically after a period.
+- **End-to-End Ride Booking**: Allows users to book rides effortlessly using the bot.
 
-The BMW XMD bot offers an intuitive interface, multi-language support, and smart integrations with various ride-booking and status-tracking features, providing a robust solution for modern communication needs.
+---
+
+## 💻 Code Activities
+
+Here’s a quick view of the latest activities in the **BMW XMD** repository:
+
+- 🔧 Latest updates and fixes
+- 📜 Pull requests for improvements
+- 🔍 Issues and bug tracking
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Ibrahim Adams Logo" width="150" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD" alt="GitHub Activity Screen" width="800">
+</p>
 
 ---
 
@@ -59,21 +77,15 @@ The BMW XMD bot offers an intuitive interface, multi-language support, and smart
 
 ---
 
-## 💻 Code Activities
+## 🏠 Overview
 
-Here’s a quick view of the latest activities in the **BMW XMD** repository:
-
-- 🔧 Latest updates and fixes
-- 📜 Pull requests for improvements
-- 🔍 Issues and bug tracking
-
-[![GitHub Activity](https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD)](https://github.com/devibraah/BWM-XMD)
+**BMW XMD** is a powerful bot solution created by **Ibrahim Adams**. It's designed to be multi-platform, scalable, and efficient for handling user interactions on popular messaging platforms like WhatsApp and Telegram. The bot features multi-language support, ride-booking capabilities, and real-time status tracking for enhanced user engagement.
 
 ---
 
 ## 📑 Contribution
 
-We welcome contributions to **BMW XMD**. If you encounter any bugs or have new ideas for features, feel free to open an issue or submit a pull request. For contributors, please ensure to follow our code of conduct and submit a detailed explanation with your pull requests.
+We welcome contributions to **BMW XMD**. If you encounter any bugs or have new ideas for features, feel free to open an issue or submit a pull request. Please follow the code of conduct and provide detailed explanations with your pull requests.
 
 ---
 
