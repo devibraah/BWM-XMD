@@ -106298,7 +106298,7 @@
   </a>
 </p>
 
-<h1 align="center" style="font-size: 40px; font-family: Arial, sans-serif;">BMW XMD MADE BY IBRAHIM ADAMS</h1>
+<h1 align="center" style="font-size: 40px; font-family: Arial, sans-serif;">BWM XMD MADE BY IBRAHIM ADAMS</h1>
 
 <p align="center">
   <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
