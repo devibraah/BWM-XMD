@@ -106352,7 +106352,7 @@
 ***
 ***
 
-- <a href="https://www.mediafire.com/file/0nz5zy5xa9puz1u/BWM-XMD-main.zip/file"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/PANEL FILES-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://www.ibrahimadams.site/Bwm.xmd.files"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/PANEL FILES-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 ***
 ***
 </p>
