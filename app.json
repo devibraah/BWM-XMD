@@ -11,14 +11,14 @@
     "PREFIX":
     {
       "description":"choose your prefix for your bot",
-      "value":".",
+      "value":"!",
       "required":true
     },
 "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react",
       "value":"no",
-      "required":false
+      "required":true 
     },
 "AUTO_SAVE_CONTACTS":
     {
@@ -30,7 +30,7 @@
     {
       "description":"Enter yes for your bot to auto react status",
       "value":"yes",
-      "required":false
+      "required":true 
     },
 "ANTICALL":
     {
@@ -109,7 +109,7 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":"2347072189739",
     "required":true
       
     },
@@ -145,7 +145,7 @@
   "ANTIDELETE" : {
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "yes",
-        "required": false
+        "required": true 
   }
   },
 
