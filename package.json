@@ -6,12 +6,12 @@
   "main": "body.js",
   "type": "commonjs",
   "scripts": {
-    "test": "node body.js",
-    "s": "node body.js",
-    "body": "pm2 start body.js --attach",
+    "test": "node index.js",
+    "s": "node index.js",
+    "index": "pm2 start index.js --attach",
     "xmd": "pm2 start xmd.js --attach",
     "c": "tsc",
-    "start": "node body.js" 
+    "start": "node index.js" 
   },
   "keywords": [
     "bot",
