@@ -1,1 +1,50 @@
-const _0x4cb517=_0x2854;(function(_0x5f0b6d,_0x10a35e){const _0x4b7eb8=_0x2854,_0x3a6a37=_0x5f0b6d();while(!![]){try{const _0x1434cd=-parseInt(_0x4b7eb8(0x197))/(0x26d+0x1bd1+-0x1e3d)*(parseInt(_0x4b7eb8(0x17a))/(-0x7d*-0x3e+0x8c*0x32+-0x2*0x1cce))+parseInt(_0x4b7eb8(0x1b9))/(0x24f3+0x2477+-0x1b5*0x2b)*(-parseInt(_0x4b7eb8(0x17d))/(-0x2013+-0xc3e+0x1*0x2c55))+parseInt(_0x4b7eb8(0x193))/(-0x7*-0x31+-0x142d+-0x3*-0x649)*(parseInt(_0x4b7eb8(0x1a0))/(-0x1c72+0x1488+-0x10*-0x7f))+parseInt(_0x4b7eb8(0x1ab))/(-0x25f6+-0x37*-0x25+0x1e0a)+parseInt(_0x4b7eb8(0x17f))/(-0x9a0+0x3*0x139+-0xdb*-0x7)*(-parseInt(_0x4b7eb8(0x19e))/(-0x18ea+0x47*0x43+-0x65e*-0x1))+parseInt(_0x4b7eb8(0x1c1))/(0x519*0x5+0x1*-0xdf1+-0xb82)+-parseInt(_0x4b7eb8(0x19f))/(-0xa86+-0x1fe8+-0x2a79*-0x1);if(_0x1434cd===_0x10a35e)break;else _0x3a6a37['push'](_0x3a6a37['shift']());}catch(_0x549963){_0x3a6a37['push'](_0x3a6a37['shift']());}}}(_0xd04f,0x10865d+-0x1b22d*0x4+0x12e5*0x3e));const fs=require(_0x4cb517(0x1aa)),{Sequelize}=require(_0x4cb517(0x188));if(fs[_0x4cb517(0x178)](_0x4cb517(0x1a7)))require(_0x4cb517(0x1a8))[_0x4cb517(0x1a6)]({'path':__dirname+(_0x4cb517(0x186)+'v')});const path=require(_0x4cb517(0x1af)),databasePath=path[_0x4cb517(0x18c)](__dirname,_0x4cb517(0x196)+_0x4cb517(0x19a)),DATABASE_URL=process[_0x4cb517(0x191)][_0x4cb517(0x182)+'RL']===undefined?databasePath:process[_0x4cb517(0x191)][_0x4cb517(0x182)+'RL'];function _0xd04f(){const _0x2eab5b=['_STATUS','INKS','PRESENCE','ams','existsSync','dams','10YwBnDB','LELgp','CONTACTS','8WKMWDN','exports','8VmxWqz','://postgre','PUBLIC_MOD','DATABASE_U','Ibrahim\x20Ad','watchFile','HEROKU_APP','/config.en','.moe/h2ydg','sequelize','ANTIDELETE','_NAME','BOT_MENU_L','join','BMW_MD','T_CALL','ct.proxy.r','AUTO_DOWNL','env','738/railwa','15HAWHcG','AUTO_READ','OT_MESSAGE','./database','103711kavDZz','e.jpg','_KEY','.db','AUTO_REPLY','BOT_NAME','OWNER_NAME','14434920fzbSuu','344487pnyECv','3230886hTWAIs','cache','unwatchFil','les.catbox','NUMERO_OWN','ANTICALL','config','config.env','dotenv','AUTO_REACT','fs-extra','9802142oPhknC','WARN_COUNT','Updated\x20','WFIHOAhKxR','path','AUTO_REJEC','PM_PERMIT','STARTING_B','AUTO_SAVE_','PM_CHATBOT','yes','resolve','gmRX@viadu','WQtGfKfhGK','559671dvXrHC','s:bKlIqoOU','STATUS','AUTO_BIO','postgresql','lwy.net:47','OAD_STATUS','PREFIX','4493880zNiPvk','https://fi','SESSION_ID','\x20Ibrahim\x20A','AUTO_READ_','log','HEROKU_APY'];_0xd04f=function(){return _0x2eab5b;};return _0xd04f();}function _0x2854(_0x795842,_0x7ef5d6){const _0x2f35e8=_0xd04f();return _0x2854=function(_0x19a419,_0x237893){_0x19a419=_0x19a419-(0x1c0b+-0x1fb7+-0x51b*-0x1);let _0x3cb2cf=_0x2f35e8[_0x19a419];return _0x3cb2cf;},_0x2854(_0x795842,_0x7ef5d6);}module[_0x4cb517(0x17e)]={'session':process[_0x4cb517(0x191)][_0x4cb517(0x16f)]||'','PREFIXE':process[_0x4cb517(0x191)][_0x4cb517(0x1c0)]||'.','OWNER_NAME':process[_0x4cb517(0x191)][_0x4cb517(0x19d)]||_0x4cb517(0x183)+_0x4cb517(0x177),'NUMERO_OWNER':process[_0x4cb517(0x191)][_0x4cb517(0x1a4)+'ER']||_0x4cb517(0x170)+_0x4cb517(0x179),'AUTO_READ_STATUS':process[_0x4cb517(0x191)][_0x4cb517(0x171)+_0x4cb517(0x1bb)]||_0x4cb517(0x1b5),'AUTO_DOWNLOAD_STATUS':process[_0x4cb517(0x191)][_0x4cb517(0x190)+_0x4cb517(0x1bf)]||'no','BOT':process[_0x4cb517(0x191)][_0x4cb517(0x19c)]||_0x4cb517(0x18d),'URL':process[_0x4cb517(0x191)][_0x4cb517(0x18b)+_0x4cb517(0x175)]||_0x4cb517(0x1c2)+_0x4cb517(0x1a3)+_0x4cb517(0x187)+_0x4cb517(0x198),'MODE':process[_0x4cb517(0x191)][_0x4cb517(0x181)+'E']||_0x4cb517(0x1b5),'PM_PERMIT':process[_0x4cb517(0x191)][_0x4cb517(0x1b1)]||_0x4cb517(0x1b5),'HEROKU_APP_NAME':process[_0x4cb517(0x191)][_0x4cb517(0x185)+_0x4cb517(0x18a)],'HEROKU_APY_KEY':process[_0x4cb517(0x191)][_0x4cb517(0x173)+_0x4cb517(0x199)],'WARN_COUNT':process[_0x4cb517(0x191)][_0x4cb517(0x1ac)]||'3','ETAT':process[_0x4cb517(0x191)][_0x4cb517(0x176)]||'','CHATBOT':process[_0x4cb517(0x191)][_0x4cb517(0x1b4)]||'no','DP':process[_0x4cb517(0x191)][_0x4cb517(0x1b2)+_0x4cb517(0x195)]||_0x4cb517(0x1b5),'ANTIDELETE':process[_0x4cb517(0x191)][_0x4cb517(0x189)]||_0x4cb517(0x1b5),'ANTICALL':process[_0x4cb517(0x191)][_0x4cb517(0x1a5)]||_0x4cb517(0x1b5),'AUTO_REACT':process[_0x4cb517(0x191)][_0x4cb517(0x1a9)]||_0x4cb517(0x1b5),'AUTO_REACT_STATUS':process[_0x4cb517(0x191)][_0x4cb517(0x1a9)+_0x4cb517(0x174)]||_0x4cb517(0x1b5),'AUTO_REPLY':process[_0x4cb517(0x191)][_0x4cb517(0x19b)]||_0x4cb517(0x1b5),'AUTO_READ':process[_0x4cb517(0x191)][_0x4cb517(0x194)]||_0x4cb517(0x1b5),'AUTO_SAVE_CONTACTS':process[_0x4cb517(0x191)][_0x4cb517(0x1b3)+_0x4cb517(0x17c)]||_0x4cb517(0x1b5),'AUTO_REJECT_CALL':process[_0x4cb517(0x191)][_0x4cb517(0x1b0)+_0x4cb517(0x18e)]||_0x4cb517(0x1b5),'AUTO_REPLY':process[_0x4cb517(0x191)][_0x4cb517(0x19b)]||_0x4cb517(0x1b5),'AUTO_BIO':process[_0x4cb517(0x191)][_0x4cb517(0x1bc)]||_0x4cb517(0x1b5),'DATABASE_URL':DATABASE_URL,'DATABASE':DATABASE_URL===databasePath?_0x4cb517(0x1bd)+_0x4cb517(0x180)+_0x4cb517(0x1ba)+_0x4cb517(0x1ae)+_0x4cb517(0x1b8)+_0x4cb517(0x1b7)+_0x4cb517(0x18f)+_0x4cb517(0x1be)+_0x4cb517(0x192)+'y':_0x4cb517(0x1bd)+_0x4cb517(0x180)+_0x4cb517(0x1ba)+_0x4cb517(0x1ae)+_0x4cb517(0x1b8)+_0x4cb517(0x1b7)+_0x4cb517(0x18f)+_0x4cb517(0x1be)+_0x4cb517(0x192)+'y'};const fichier=require[_0x4cb517(0x1b6)](__filename);fs[_0x4cb517(0x184)](fichier,()=>{const _0x406e75=_0x4cb517,_0x42f773={'LELgp':function(_0x44b236,_0x31081c){return _0x44b236(_0x31081c);}};fs[_0x406e75(0x1a2)+'e'](fichier),console[_0x406e75(0x172)](_0x406e75(0x1ad)+__filename),delete require[_0x406e75(0x1a1)][fichier],_0x42f773[_0x406e75(0x17b)](require,fichier);});
+const fs = require('fs-extra');
+const { Sequelize } = require('sequelize');
+if (fs.existsSync('config.env'))
+    require('dotenv').config({ path: __dirname + '/config.env' });
+const path = require("path");
+const databasePath = path.join(__dirname, './database.db');
+const DATABASE_URL = process.env.DATABASE_URL === undefined
+    ? databasePath
+    : process.env.DATABASE_URL;
+module.exports = { session: process.env.SESSION_ID || '',
+    PREFIXE: process.env.PREFIX || ".",
+    OWNER_NAME: process.env.OWNER_NAME || "Ibrahim Adams",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || " Ibrahim Adams",              
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
+    AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
+    BOT : process.env.BOT_NAME || 'BMW_MD',
+    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/h2ydge.jpg',
+    MODE: process.env.PUBLIC_MODE || "yes",
+    PM_PERMIT: process.env.PM_PERMIT || 'yes',
+    HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
+    HEROKU_APY_KEY : process.env.HEROKU_APY_KEY ,
+    WARN_COUNT : process.env.WARN_COUNT || '3' ,
+    ETAT : process.env.PRESENCE || '',
+    CHATBOT : process.env.PM_CHATBOT || 'no',
+    DP : process.env.STARTING_BOT_MESSAGE || "yes",
+    ANTIDELETE1 : process.env.ANTIDELETE1 || 'yes',
+    ANTIDELETE2 : process.env.ANTIDELETE2 || 'yes',
+    MENUTYPE : process.env.MENUTYPE || '',
+    ANTICALL : process.env.ANTICALL || 'yes',
+                  AUTO_REACT : process.env.AUTO_REACT || 'yes',
+                  AUTO_REACT_STATUS : process.env.AUTO_REACT_STATUS || 'yes',
+                  AUTO_REPLY : process.env.AUTO_REPLY || 'yes',
+                  AUTO_READ : process.env.AUTO_READ || 'yes',
+                  AUTO_SAVE_CONTACTS : process.env.AUTO_SAVE_CONTACTS || 'yes',
+                  AUTO_REJECT_CALL : process.env.AUTO_REJECT_CALL || 'yes',
+                  AUTO_BIO : process.env.AUTO_BIO || 'yes',
+                  AUDIO_REPLY : process.env.AUDIO_REPLY || 'yes',
+    DATABASE_URL,
+    DATABASE: DATABASE_URL === databasePath
+        ? "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway" : "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway",
+   
+};
+let fichier = require.resolve(__filename);
+fs.watchFile(fichier, () => {
+    fs.unwatchFile(fichier);
+    console.log(`mise à jour ${__filename}`);
+    delete require.cache[fichier];
+    require(fichier);
+});
+
