@@ -3,7 +3,7 @@
   "name": "Bwm-xmd",
   "version": "2.0.0",
   "description": "",
-  "main": "body.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "test": "node index.js",
