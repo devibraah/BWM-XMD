@@ -54,7 +54,7 @@
     "AUTO_READ_STATUS":
     {
       "description":"Your status will be reading automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
@@ -92,8 +92,8 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
-      "required":false
+      "value":"no",
+      "https://github.com/ekitale/maths-projectrequired":false
     }
 	,
     "HEROKU_API_KEY": {
